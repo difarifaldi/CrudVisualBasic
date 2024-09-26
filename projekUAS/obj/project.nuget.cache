@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/ADbc2VqaVro9Ab4LUTorz7o7bKmUAzvOUU40juWt44cfQEh1GxMARa6/2/3JXdaCk8qYbtuTUWZwdSzKGuPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\file pemvis\\projekUAS\\projekUAS\\projekUAS.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
